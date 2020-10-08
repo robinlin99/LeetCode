@@ -5,7 +5,7 @@ class Solution(object):
         else:
             if int(str(x)[::-1]) == x:
                 return True
-        
+
         """
         :type x: int
         :rtype: bool
